@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# O PowerShell 5.1 e o cmd precisam de CRLF
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.md  text

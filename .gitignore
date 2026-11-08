@@ -1,0 +1,19 @@
+# Cópia do XAMPP (grande): só o LEIA-ME vai para o GitHub
+arquivos/xampp/*
+!arquivos/xampp/LEIA-ME.md
+
+# Criados pelo script com dados do campus (listas de PCs, chaves); fichas/ era de versões antigas
+arquivos/campus/
+arquivos/veyon/
+fichas/
+arquivos/start2.bin
+
+# Instaladores (baixe de cada fabricante)
+softwares/**/*.exe
+softwares/**/*.msi
+softwares/**/*.vsix
+softwares/parametros.txt
+
+# Imagens do campus
+arquivos/wallpapers/*.png
+arquivos/wallpapers/*.jpg
