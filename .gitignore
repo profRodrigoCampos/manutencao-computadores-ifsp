@@ -13,7 +13,3 @@ softwares/**/*.exe
 softwares/**/*.msi
 softwares/**/*.vsix
 softwares/parametros.txt
-
-# Imagens do campus
-arquivos/wallpapers/*.png
-arquivos/wallpapers/*.jpg
